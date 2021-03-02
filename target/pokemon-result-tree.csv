@@ -1,0 +1,61 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1614697777846,124,HTTP Request - Ditto,200,OK,Pokemon: API Task 1-1,text,true,,21844,134,1,1,https://pokeapi.co/api/v2/pokemon/ditto,119,0,82
+1614697777971,41,HTTP Request - Ditto,200,OK,Pokemon: API Task 1-1,text,true,,21840,134,1,1,https://pokeapi.co/api/v2/pokemon/ditto,34,0,0
+1614697778013,49,HTTP Request - Ditto,200,OK,Pokemon: API Task 1-1,text,true,,21840,134,1,1,https://pokeapi.co/api/v2/pokemon/ditto,44,0,0
+1614697778062,88,HTTP Request - Pikachu,200,OK,Pokemon: API Task 1-1,text,true,,192110,136,1,1,https://pokeapi.co/api/v2/pokemon/pikachu,33,0,0
+1614697778151,67,HTTP Request - Abra,200,OK,Pokemon: API Task 1-1,text,true,,197472,133,1,1,https://pokeapi.co/api/v2/pokemon/abra,32,0,0
+1614697777842,369,Transaction: Get 3 Pokemon,200,"Number of samples in transaction : 6, number of failing samples : 0",Pokemon: API Task 1-1,,true,,455106,671,1,1,null,262,7,82
+1614697778341,161,HTTP Request - Ditto,200,OK,Pokemon: API Task 1-2,text,true,,21846,134,1,1,https://pokeapi.co/api/v2/pokemon/ditto,149,0,93
+1614697778504,48,HTTP Request - Ditto,200,OK,Pokemon: API Task 1-2,text,true,,21842,134,1,1,https://pokeapi.co/api/v2/pokemon/ditto,45,0,0
+1614697778552,38,HTTP Request - Ditto,200,OK,Pokemon: API Task 1-2,text,true,,21846,134,1,1,https://pokeapi.co/api/v2/pokemon/ditto,33,0,0
+1614697778591,89,HTTP Request - Pikachu,200,OK,Pokemon: API Task 1-2,text,true,,192116,136,1,1,https://pokeapi.co/api/v2/pokemon/pikachu,39,0,0
+1614697778681,71,HTTP Request - Abra,200,OK,Pokemon: API Task 1-2,text,true,,197468,133,1,1,https://pokeapi.co/api/v2/pokemon/abra,37,0,0
+1614697778340,407,Transaction: Get 3 Pokemon,200,"Number of samples in transaction : 6, number of failing samples : 0",Pokemon: API Task 1-2,,true,,455118,671,1,1,null,303,5,93
+1614697778840,117,HTTP Request - Ditto,200,OK,Pokemon: API Task 1-3,text,true,,21846,134,1,1,https://pokeapi.co/api/v2/pokemon/ditto,116,0,76
+1614697778958,43,HTTP Request - Ditto,200,OK,Pokemon: API Task 1-3,text,true,,21846,134,1,1,https://pokeapi.co/api/v2/pokemon/ditto,38,0,0
+1614697779002,32,HTTP Request - Ditto,200,OK,Pokemon: API Task 1-3,text,true,,21846,134,1,1,https://pokeapi.co/api/v2/pokemon/ditto,30,0,0
+1614697779034,86,HTTP Request - Pikachu,200,OK,Pokemon: API Task 1-3,text,true,,192114,136,1,1,https://pokeapi.co/api/v2/pokemon/pikachu,39,0,0
+1614697779121,69,HTTP Request - Abra,200,OK,Pokemon: API Task 1-3,text,true,,197466,133,1,1,https://pokeapi.co/api/v2/pokemon/abra,34,0,0
+1614697778839,347,Transaction: Get 3 Pokemon,200,"Number of samples in transaction : 6, number of failing samples : 0",Pokemon: API Task 1-3,,true,,455118,671,1,1,null,257,4,76
+1614697779347,141,HTTP Request - Ditto,200,OK,Pokemon: API Task 1-4,text,true,,21842,134,1,1,https://pokeapi.co/api/v2/pokemon/ditto,137,0,103
+1614697779488,34,HTTP Request - Ditto,200,OK,Pokemon: API Task 1-4,text,true,,21844,134,1,1,https://pokeapi.co/api/v2/pokemon/ditto,27,0,0
+1614697779522,42,HTTP Request - Ditto,200,OK,Pokemon: API Task 1-4,text,true,,21842,134,1,1,https://pokeapi.co/api/v2/pokemon/ditto,36,0,0
+1614697779564,93,HTTP Request - Pikachu,200,OK,Pokemon: API Task 1-4,text,true,,192114,136,1,1,https://pokeapi.co/api/v2/pokemon/pikachu,46,0,0
+1614697779657,65,HTTP Request - Abra,200,OK,Pokemon: API Task 1-4,text,true,,197470,133,1,1,https://pokeapi.co/api/v2/pokemon/abra,32,0,0
+1614697779346,375,Transaction: Get 3 Pokemon,200,"Number of samples in transaction : 6, number of failing samples : 0",Pokemon: API Task 1-4,,true,,455112,671,1,1,null,278,2,103
+1614697779845,127,HTTP Request - Ditto,200,OK,Pokemon: API Task 1-5,text,true,,21846,134,1,1,https://pokeapi.co/api/v2/pokemon/ditto,124,0,85
+1614697779973,40,HTTP Request - Ditto,200,OK,Pokemon: API Task 1-5,text,true,,21852,134,1,1,https://pokeapi.co/api/v2/pokemon/ditto,34,0,0
+1614697780014,52,HTTP Request - Ditto,200,OK,Pokemon: API Task 1-5,text,true,,21844,134,1,1,https://pokeapi.co/api/v2/pokemon/ditto,47,0,0
+1614697780067,76,HTTP Request - Pikachu,200,OK,Pokemon: API Task 1-5,text,true,,192112,136,1,1,https://pokeapi.co/api/v2/pokemon/pikachu,32,0,0
+1614697780144,69,HTTP Request - Abra,200,OK,Pokemon: API Task 1-5,text,true,,197462,133,1,1,https://pokeapi.co/api/v2/pokemon/abra,34,0,0
+1614697779844,364,Transaction: Get 3 Pokemon,200,"Number of samples in transaction : 6, number of failing samples : 0",Pokemon: API Task 1-5,,true,,455116,671,1,1,null,271,5,85
+1614697780344,151,HTTP Request - Ditto,200,OK,Pokemon: API Task 1-6,text,true,,21854,134,1,1,https://pokeapi.co/api/v2/pokemon/ditto,148,0,104
+1614697780495,38,HTTP Request - Ditto,200,OK,Pokemon: API Task 1-6,text,true,,21848,134,1,1,https://pokeapi.co/api/v2/pokemon/ditto,33,0,0
+1614697780533,40,HTTP Request - Ditto,200,OK,Pokemon: API Task 1-6,text,true,,21842,134,1,1,https://pokeapi.co/api/v2/pokemon/ditto,34,0,0
+1614697780574,92,HTTP Request - Pikachu,200,OK,Pokemon: API Task 1-6,text,true,,192116,136,1,1,https://pokeapi.co/api/v2/pokemon/pikachu,46,0,0
+1614697780667,69,HTTP Request - Abra,200,OK,Pokemon: API Task 1-6,text,true,,197470,133,1,1,https://pokeapi.co/api/v2/pokemon/abra,36,0,0
+1614697780343,390,Transaction: Get 3 Pokemon,200,"Number of samples in transaction : 6, number of failing samples : 0",Pokemon: API Task 1-6,,true,,455130,671,1,1,null,297,4,104
+1614697780843,115,HTTP Request - Ditto,200,OK,Pokemon: API Task 1-7,text,true,,21842,134,1,1,https://pokeapi.co/api/v2/pokemon/ditto,111,0,77
+1614697780959,34,HTTP Request - Ditto,200,OK,Pokemon: API Task 1-7,text,true,,21842,134,1,1,https://pokeapi.co/api/v2/pokemon/ditto,28,0,0
+1614697780993,38,HTTP Request - Ditto,200,OK,Pokemon: API Task 1-7,text,true,,21842,134,1,1,https://pokeapi.co/api/v2/pokemon/ditto,33,0,0
+1614697781032,80,HTTP Request - Pikachu,200,OK,Pokemon: API Task 1-7,text,true,,192114,136,1,1,https://pokeapi.co/api/v2/pokemon/pikachu,36,0,0
+1614697781112,63,HTTP Request - Abra,200,OK,Pokemon: API Task 1-7,text,true,,197470,133,1,1,https://pokeapi.co/api/v2/pokemon/abra,35,0,0
+1614697780842,330,Transaction: Get 3 Pokemon,200,"Number of samples in transaction : 6, number of failing samples : 0",Pokemon: API Task 1-7,,true,,455110,671,1,1,null,243,3,77
+1614697781342,126,HTTP Request - Ditto,200,OK,Pokemon: API Task 1-8,text,true,,21844,134,1,1,https://pokeapi.co/api/v2/pokemon/ditto,123,0,77
+1614697781468,42,HTTP Request - Ditto,200,OK,Pokemon: API Task 1-8,text,true,,21848,134,1,1,https://pokeapi.co/api/v2/pokemon/ditto,36,0,0
+1614697781510,38,HTTP Request - Ditto,200,OK,Pokemon: API Task 1-8,text,true,,21842,134,1,1,https://pokeapi.co/api/v2/pokemon/ditto,33,0,0
+1614697781548,80,HTTP Request - Pikachu,200,OK,Pokemon: API Task 1-8,text,true,,192114,136,1,1,https://pokeapi.co/api/v2/pokemon/pikachu,32,0,0
+1614697781629,75,HTTP Request - Abra,200,OK,Pokemon: API Task 1-8,text,true,,197464,133,1,1,https://pokeapi.co/api/v2/pokemon/abra,35,0,0
+1614697781341,361,Transaction: Get 3 Pokemon,200,"Number of samples in transaction : 6, number of failing samples : 0",Pokemon: API Task 1-8,,true,,455112,671,1,1,null,259,3,77
+1614697781839,110,HTTP Request - Ditto,200,OK,Pokemon: API Task 1-9,text,true,,21850,134,1,1,https://pokeapi.co/api/v2/pokemon/ditto,105,0,69
+1614697781949,47,HTTP Request - Ditto,200,OK,Pokemon: API Task 1-9,text,true,,21844,134,1,1,https://pokeapi.co/api/v2/pokemon/ditto,38,0,0
+1614697781996,41,HTTP Request - Ditto,200,OK,Pokemon: API Task 1-9,text,true,,21848,134,1,1,https://pokeapi.co/api/v2/pokemon/ditto,38,0,0
+1614697782037,77,HTTP Request - Pikachu,200,OK,Pokemon: API Task 1-9,text,true,,192114,136,1,1,https://pokeapi.co/api/v2/pokemon/pikachu,34,0,0
+1614697782114,56,HTTP Request - Abra,200,OK,Pokemon: API Task 1-9,text,true,,197468,133,1,1,https://pokeapi.co/api/v2/pokemon/abra,36,0,0
+1614697781838,331,Transaction: Get 3 Pokemon,200,"Number of samples in transaction : 6, number of failing samples : 0",Pokemon: API Task 1-9,,true,,455124,671,1,1,null,251,3,69
+1614697782338,118,HTTP Request - Ditto,200,OK,Pokemon: API Task 1-10,text,true,,21844,134,1,1,https://pokeapi.co/api/v2/pokemon/ditto,117,0,83
+1614697782457,46,HTTP Request - Ditto,200,OK,Pokemon: API Task 1-10,text,true,,21842,134,1,1,https://pokeapi.co/api/v2/pokemon/ditto,38,0,0
+1614697782504,41,HTTP Request - Ditto,200,OK,Pokemon: API Task 1-10,text,true,,21844,134,1,1,https://pokeapi.co/api/v2/pokemon/ditto,38,0,0
+1614697782545,79,HTTP Request - Pikachu,200,OK,Pokemon: API Task 1-10,text,true,,192118,136,1,1,https://pokeapi.co/api/v2/pokemon/pikachu,34,0,0
+1614697782624,69,HTTP Request - Abra,200,OK,Pokemon: API Task 1-10,text,true,,197470,133,1,1,https://pokeapi.co/api/v2/pokemon/abra,47,0,0
+1614697782336,353,Transaction: Get 3 Pokemon,200,"Number of samples in transaction : 6, number of failing samples : 0",Pokemon: API Task 1-10,,true,,455118,671,1,1,null,274,5,83
